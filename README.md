@@ -15,6 +15,9 @@ This will give us access to the time related functions. Here are a few of the bu
 **time.sleep(secs)** - This will suspend execution for the given number of seconds.
 **time.time()** - This will return the time in seconds.
 
+## time.py
+Create a program to show the time.
+
 ## Hangman.py  
 Create a program to guess a word.
 ---
